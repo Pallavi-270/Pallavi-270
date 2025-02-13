@@ -24,6 +24,9 @@ A skilled Web Developer with expertise in **HTML,CSS,JavaScript,Node.js,Express.
 **Version Control:**
 - Git
 - GitHub
+
+## 📊 GitHub Stats:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pallavi-270&show_icons=true&count_private=true)
   
 ## 📫 How to Reach Me:
 
