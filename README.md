@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋,I am Pallavi
+A skilled Web Developer with expertise in **HTML,CSS,JavaScript,Node.js,Express.js and MongoDB.I enjoy buiilding interactive and responsive web applications.Constantly learning and improving to stay ahead in the ever-evolving tech world.
 
-<!--
-**Pallavi-270/Pallavi-270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me:
+- 🎯 Exploring **Frontend and Backend Optimization Techniques**
+- 👨‍💻 Checkout my Portfolio: [Click Here]
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+**Languages:**
+- HTML
+- CSS
+- JavaScript
+**Frontend Frameworks & Libraries:**
+- React.js
+**Backend Frameworks & Technologies:**
+- Node.js
+- Express.js
+**Databases:**
+- MongoDB
+**Version Control:**
+- Git
+- GitHub
+- 
+## 📫 How to Reach Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📧 Email:pallavibandaru23@gmail.com🔗 LinkedIn:[Linkedin Profile](https://www.linkedin.com/in/l-k-v-m-pallavi-bandaru-061069253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)🔗 GitHub: [GitHub Profile](https://github.com/Pallavi-270)
 -->
