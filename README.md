@@ -1,5 +1,5 @@
 ## Hi 👋,I am Pallavi
-A skilled Web Developer with expertise in **HTML,CSS,JavaScript,Node.js,Express.js and MongoDB.I enjoy buiilding interactive and responsive web applications.Constantly learning and improving to stay ahead in the ever-evolving tech world.
+A skilled Web Developer with expertise in HTML,CSS,JavaScript,Node.js,Express.js and MongoDB.I enjoy buiilding interactive and responsive web applications.Constantly learning and improving to stay ahead in the ever-evolving tech world.
 
 ## 📌 About Me:
 - 🎯 Exploring **Frontend and Backend Optimization Techniques**
