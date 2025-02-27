@@ -3,7 +3,7 @@ A skilled Web Developer with expertise in HTML,CSS,JavaScript,Node.js,Express.js
 
 ## 📌 About Me:
 - 🎯 Exploring **Frontend and Backend Optimization Techniques**
-- 👨‍💻 Checkout my Portfolio: [Click Here]
+- 👨‍💻 Checkout my Portfolio: [https://pallavi-270.github.io/pallavi/]
 
 ## 💻 Tech Stack:
 **Languages:**
